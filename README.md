@@ -21,7 +21,7 @@ Turn a fresh Raspberry Pi OS (Bookworm, 64‑bit) into a **Tailscale exit node**
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-org>/raspi-tm-exitnode.git
+git clone https://github.com/argon-analytik/raspberry-pi-time-machine.git
 cd raspi-tm-exitnode
 cp .env.example .env
 # Fill .env with your values (TS_AUTHKEY, TM_SMB_PASS, …)
